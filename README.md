@@ -1,26 +1,22 @@
 <div align="center">
   <img height="200" src="GITHUB Profile.gif"  />
 </div>
-
-###
+<div align="center">
+  <img src="https://profile-counter.glitch.me/SusmithaVadali/count.svg?"  />
+</div>
 
 <h3 align="left">Hello World!! I am Susmitha Sri Ramani Vadali, <br><br>I’m passionate about working at both ends of the tech stack from designing hardware using RTL to building user-friendly web applications. I enjoy exploring digital logic, writing Verilog, and developing system-level hardware designs. At the same time, I find joy in crafting clean, responsive websites and web apps. I’m always excited to bridge the gap between low-level hardware design and high-level user experiences.</h6>
 
 ###
 
-
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/SusmithaVadali/count.svg?"  />
-</div>
-
 ###
 
 
 
-
-
-<div align="left">
+###
+<h2 align="left"> Skills:
+  
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
