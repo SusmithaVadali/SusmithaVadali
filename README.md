@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
   <img height="200" src="GITHUB Profile.gif"  />
 </div>
 
@@ -8,7 +8,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://profile-counter.glitch.me/SusmithaVadali/count.svg?"  />
 </div>
 
