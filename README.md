@@ -1,4 +1,4 @@
-<div align="centre">
+<div align="center">
   <img height="200" src="GITHUB Profile.gif"  />
 </div>
 
