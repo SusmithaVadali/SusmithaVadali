@@ -4,7 +4,7 @@
 
 ###
 
-<h6 align="left">Hello World!! I am Susmitha Sri Ramani Vadali, <br><br>I’m passionate about working at both ends of the tech stack — from designing hardware using RTL to building user-friendly web applications. I enjoy exploring digital logic, writing Verilog, and developing system-level hardware designs. At the same time, I find joy in crafting clean, responsive websites and web apps. I’m always excited to bridge the gap between low-level hardware design and high-level user experiences.</h6>
+<h3 align="left">Hello World!! I am Susmitha Sri Ramani Vadali, <br><br>I’m passionate about working at both ends of the tech stack — from designing hardware using RTL to building user-friendly web applications. I enjoy exploring digital logic, writing Verilog, and developing system-level hardware designs. At the same time, I find joy in crafting clean, responsive websites and web apps. I’m always excited to bridge the gap between low-level hardware design and high-level user experiences.</h6>
 
 ###
 
@@ -14,12 +14,15 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/susmitha-sri-ramani-vadali-076864258/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://www.hackerrank.com/profile/susmithavadali" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
+  </a>
+  <a href="susmithasrvadali@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
 
