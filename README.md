@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **susmithasrvadali@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/home](https://drive.google.com/drive/home)
+- 📄 Know about my experiences [https://drive.google.com/file/d/18HpqsTA-YNLA9-8OHDPjMy1KCM7kfWrW/view?usp=sharing](https://drive.google.com/file/d/18HpqsTA-YNLA9-8OHDPjMy1KCM7kfWrW/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
