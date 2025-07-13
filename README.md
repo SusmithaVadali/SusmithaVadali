@@ -2,7 +2,10 @@
   <img height="200" src="GITHUB Profile.gif"  />
 </div>
 <div align="center">
-  <img src="https://profile-counter.glitch.me/SusmithaVadali/count.svg?"  />
+<!--   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/SusmithaVadali&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false"/> -->
+<!--  <img src="https://komarev.com/ghpvc/?username=SusmithaVadali&label=Profile%20views&color=0e75b6&style=flat" alt="SusmithaVadali" /> -->
+
+<img src="https://profile-counter.glitch.me/SusmithaVadali/count.svg?"  />
 </div>
 
 <h3 align="left">Hello World!! I am Susmitha Sri Ramani Vadali, <br><br>I’m passionate about working at both ends of the tech stack from designing hardware using RTL to building user-friendly web applications. I enjoy exploring digital logic, writing Verilog, and developing system-level hardware designs. At the same time, I find joy in crafting clean, responsive websites and web apps. I’m always excited to bridge the gap between low-level hardware design and high-level user experiences.</h6>
